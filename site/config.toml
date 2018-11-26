@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "PDelaby - Demo"
+theme = "learn"
+features = []
+
+[params]
+  description = "Pdelaby - Demo"
+  author = "Delaby Pierre"
+  #showVisitedLinks = true
+  themeVariant = "blue"
+  tocMode = "aside" # navbar | aside | page
