@@ -1,8 +1,8 @@
 version: '3.5'
 services:
-    pdytutos:    
-      container_name: pdytutos
+    hugodemo:    
+      container_name: hugodemo
       build: .
-      image: pdy/tutos:latest
+      image: pdy/hugodemo:latest
       ports:
         - 1314:1313
